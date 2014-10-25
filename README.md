@@ -1,7 +1,7 @@
 This is my *new* Repo
 =========================
 
-## Table of Contents alexhateineänderunggemacht
+## Table of Contents *alexhateineänderunggemacht*
 
 - Installation
 - Important Notes
